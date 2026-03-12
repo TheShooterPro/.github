@@ -6,3 +6,4 @@
 
 > Have fun and enjoy life!
 
+![Enjoy life](picinic.png)
